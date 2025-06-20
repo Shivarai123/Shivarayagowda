@@ -1,8 +1,7 @@
 # Shivarayagowda
 
 * **Professional Summary:**
-    Start with a friendly greeting and a concise yet impactful summary of your expertise.
-    ```markdown
+    
     # Hi, I'm Shivarayagowda Biradar! 👋
 
     I'm a passionate **Business Analyst** with over 4 years of experience specializing in leveraging 
@@ -12,9 +11,7 @@
     I'm adept at bridging the gap between business needs and technical solutions, with a strong foundation in **SQL**, **Python**, **machine learning**, **data mining**, and **predictive modeling**. I have hands-on experience with industry-leading tools like Tableau, Power BI, Apache Spark, Databricks, and Salesforce Financial Services Cloud, consistently driving measurable improvements in areas like credit risk assessment, operational efficiency, and customer engagement.
     ```
 
-* **Technical Skills (Categorized with Emojis):**
-    Use clear categories and emojis for visual appeal and easy scanning.
-    ```markdown
+
     ---
 
     ### 🚀 My Core Skills:
@@ -31,10 +28,7 @@
     -   **📝 Reporting & Documentation:** Root Cause Analysis, KPI Tracking, Executive Reports
     ```
 
-* **Links to Your Main Portfolio, LinkedIn, and Other Relevant Social Media:**
-    Provide direct, clickable links to your key online professional assets.
-    ```markdown
-    ---
+
 
     ### Connect With Me:
 
@@ -43,9 +37,7 @@
     -   📧 [Email Me](mailto:shivaraib123@gmail.com)
     ```
 
-* **"What I'm Currently Working On" or "Looking For" Section:**
-    Keep this section concise and update it periodically to reflect your current focus or career goals.
-    ```markdown
+
     ---
 
     ### 🌱 What I'm Currently Working On:
