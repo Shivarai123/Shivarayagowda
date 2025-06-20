@@ -1,18 +1,16 @@
-# Shivarayagowda
 
-* **Professional Summary:**
-    
     # Hi, I'm Shivarayagowda Biradar! 👋
+###Professional Summary:**
+    
+
 
     I'm a passionate **Business Analyst** with over 4 years of experience specializing in leveraging 
     AI-driven solutions** to optimize business processes and enhance data-driven decision-making.
-   My expertise spans requirements gathering, process optimization, and crafting compelling **data visualizations**.
+    My expertise spans requirements gathering, process optimization, and crafting compelling data visualizations**.
 
-    I'm adept at bridging the gap between business needs and technical solutions, with a strong foundation in **SQL**, **Python**, **machine learning**, **data mining**, and     predictive modeling. I have hands-on experience with industry-leading tools like Tableau, Power BI, Apache Spark, Databricks, and Salesforce Financial Services Cloud, consistently driving measurable improvements in areas like credit risk assessment, operational efficiency, and customer engagement.
+    I'm adept at bridging the gap between business needs and technical solutions, with a strong foundation in **SQL**, **Python**, **machine learning**, **data mining**, and      predictive modeling. I have hands-on experience with industry-leading tools like Tableau, Power BI, Apache Spark, Databricks, and Salesforce Financial Services Cloud, consistently driving measurable improvements in areas like credit risk assessment, operational efficiency, and customer engagement.
     ```
 
-
-    ---
 
 ### 🚀 My Core Skills:
 
