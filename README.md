@@ -38,13 +38,14 @@
     ```
 
 
-    ---
 
     ### 🌱 What I'm Currently Working On:
 
-    Actively exploring advanced applications of predictive analytics in financial risk management and optimizing data pipeline efficiency using modern cloud platforms. Always keen to learn new technologies and methodologies to drive impactful business outcomes!
+    Actively exploring advanced applications of predictive analytics in financial risk management and
+    optimizing data pipeline efficiency using modern cloud platforms. Always keen to learn new technologies and methodologies to drive impactful business outcomes!
 
     ### 💼 Looking For:
 
-    Open to challenging **Business Analyst** roles where I can leverage my expertise in AI-driven solutions, data analytics, and strategic problem-solving to contribute to innovative projects and achieve significant business value.
+    Open to challenging **Business Analyst** roles where I can leverage my expertise in AI-driven solutions,
+    data analytics, and strategic problem-solving to contribute to innovative projects and achieve significant business value.
     ```
